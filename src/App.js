@@ -34,7 +34,7 @@ function Home() {
 function Launch() {
   return(
     <div>
-      <h2>Launch!</h2>
+      <h2>Launch!!!</h2>
 
       <Outlet />
     </div>
